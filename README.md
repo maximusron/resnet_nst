@@ -1,1 +1,2 @@
-# resnet_nst
+# Neural Style Transfer on a RESNET-50 architecture
+
